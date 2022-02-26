@@ -1,0 +1,8 @@
+NEW DATA VALUES ADDED : 
+----------------- 
+DNA SEQUENCE IS : TGACGATA 
+SUBJECT NAME : Lion 
+ID OF SUBJECT : 1 
+FEATURES : five legs eyes 
+----------------- 
+END OF CURRENT DATABASE 

@@ -1,0 +1,8 @@
+NEW DATA VALUES ADDED : 
+----------------- 
+DNA SEQUENCE IS : ATGCATGC 
+SUBJECT NAME : cat 
+ID OF SUBJECT : 1 
+FEATURES : e r 
+----------------- 
+END OF CURRENT DATABASE 
